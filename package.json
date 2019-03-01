@@ -1,0 +1,24 @@
+{
+  "name": "iex-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaacRaymond/iex-test.git"
+  },
+  "author": "Isaac Raymond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsaacRaymond/iex-test/issues"
+  },
+  "homepage": "https://github.com/IsaacRaymond/iex-test#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4"
+  }
+}
